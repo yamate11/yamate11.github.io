@@ -27,3 +27,29 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+日本語も書けますか?
+どうでしょうか?
+
+{% highlight python %}
+def main():
+    print('Hello, world!')
+{% endhighlight %}
+
+{% highlight cpp %}
+#include <iostream>
+
+int main() {
+    cout << "Hello, world!" << endl;
+}
+{% endhighlight %}
+
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script"></script>
+
+$$ a = b^2_1 $$
+
+\\[ a = b^2 \\]
+
+$ a = b^2 $
+
+\\( a = b^2 \\)
